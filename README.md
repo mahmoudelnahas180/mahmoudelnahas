@@ -76,7 +76,7 @@ I love building scalable web applications and turning ideas into reality through
   <a href="https://www.linkedin.com/in/mahmoud-elnahas-27298219a" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mahmoudelnahas180@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
