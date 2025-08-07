@@ -1,51 +1,86 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
-</ul>
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! I'm Mahmoud El-Nahhas</h1>
+
+<p>Welcome to my GitHub profile!<br/>
+I'm Mahmoud, a passionate <b>Full Stack Developer</b> specializing in the <b>MERN stack (MongoDB, Express, React, Node.js)</b> 🇪🇬 from <b>Egypt</b>. 
+I love building scalable web applications and turning ideas into reality through clean and efficient code.</p>
+
+---
+
+### 🚀 Tech Stack & Tools I Work With
+
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
+
+---
+
+### 📂 Featured Projects
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>📦 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+      <td><b>🐛 Issues</b></td>
+      <td><b>🔧 Pull Requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mahmoudnahhas/your-project-1"><b>Project Name 1</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/mahmoudnahhas/your-project-1?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/mahmoudnahhas/your-project-1?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/mahmoudnahhas/your-project-1?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/mahmoudnahhas/your-project-1?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mahmoudnahhas/your-project-2"><b>Project Name 2</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/mahmoudnahhas/your-project-2?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/forks/mahmoudnahhas/your-project-2?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues/mahmoudnahhas/your-project-2?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/mahmoudnahhas/your-project-2?style=flat-square" /></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### ✍ Latest Blog Posts
+> (Add your blog or Medium links below)
+
+- [How I Built a Scalable MERN App in Record Time](https://your-blog-link.com)
+- [Top 10 React Best Practices Every Developer Should Know](https://your-blog-link.com)
+- [Dockerize Your MERN App Like a Pro](https://your-blog-link.com)
+
+---
+
+### 🌍 Connect with Me
+
+<p>
+  <a href="https://github.com/mahmoudnahhas" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoudnahhas" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting my profile! 🚀<br/>Feel free to explore my repos, give a ⭐ if you like something, and connect with me for collaboration!</p>
