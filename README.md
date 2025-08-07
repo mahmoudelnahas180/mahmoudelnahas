@@ -73,7 +73,7 @@ I love building scalable web applications and turning ideas into reality through
   <a href="https://github.com/mahmoudnahhas" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mahmoudnahhas" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-elnahas-27298219a" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
